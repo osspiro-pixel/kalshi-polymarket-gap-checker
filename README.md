@@ -1,4 +1,4 @@
-Kalshi vs Polymarket Gap Checker
+# Kalshi vs Polymarket Gap Checker
 
 A Python tool that pulls live crypto prediction markets from Kalshi and Polymarket, pairs up markets that describe the same event, and measures the price gap between the two platforms.
 
